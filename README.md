@@ -1,0 +1,1 @@
+# videosdk-auth-endpoint
